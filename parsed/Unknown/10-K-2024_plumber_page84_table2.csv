@@ -1,0 +1,24 @@
+0,1
+asic net income per share:,
+Numerator,
+Allocation of distributed earnings cash dividends paid, 3509  519  3335  7363
+Allocation of undistributed earnings,44085 6520 42150 92755
+Net income, 47594  7039  45485  100118
+Denominator,
+Number of shares used in per share computation,5855 866 5598 12319
+asic net income per share, 8.13  8.13  8.13  8.13
+Diluted net income per share:,
+Numerator,
+Allocation of total earnings for basic computation, 47594  7039  45485  100118
+"Reallocation of total earnings as a result of conversion of Class  to
+Class A shares",7039 0 0 _1
+Reallocation of undistributed earnings,520 67 520 _1
+Net income, 54113  6972  46005  100118
+Denominator,
+Number of shares used in basic computation,5855 866 5598 12319
+Weighted-average effect of dilutive securities,
+Add:,
+Conversion of Class  to Class A shares outstanding,866 0 0 _1
+Restricted stock units and other contingently issuable shares,0 0 128 128
+Number of shares used in per share computation,6721 866 5726 12447
+Diluted net income per share, 8.05  8.05  8.03  8.04
