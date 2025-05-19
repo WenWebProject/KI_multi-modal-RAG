@@ -1,7 +1,0 @@
-0
-Table of Contents
-User Geography
-Our data regarding the geographic location of our users is estimated based on a number of factors such as the user's IP address and self-disclosed location.
-These factors may not always accurately reflect the user's actual location. For example a user may appear to be accessing Facebook from the location of the proxy
-server that the user connects to rather than from the user's actual location. The methodologies used to measure our metrics are also susceptible to algorithm or other
-technical errors and our estimates for revenue by user location and revenue by user device are also affected by these factors.
